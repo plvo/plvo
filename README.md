@@ -1,2 +1,1 @@
-![philipp-a-urlich-mountains](https://github.com/user-attachments/assets/76f6e5fc-fd2e-4f92-bf91-d7c9af9325c5)
-<!-- artist: https://urlich.art/-->
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/14a018ff-8581-40af-bc45-0b987f6aa1fe" />
